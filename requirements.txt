@@ -22,3 +22,4 @@ numpy>=1.21.0          # Numerical computations (for advanced calculations)
 black>=22.0.0          # Code formatting
 flake8>=5.0.0          # Code linting
 mypy>=0.991            # Type checking
+pyinjector
