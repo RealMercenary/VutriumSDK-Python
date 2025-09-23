@@ -1,0 +1,24 @@
+# VutriumSDK Python Implementation Dependencies
+
+# Core dependencies
+psutil>=5.9.0          # System and process utilities
+socket                 # Network communication (built-in)
+threading              # Multi-threading support (built-in)
+time                   # Time utilities (built-in)
+json                   # JSON data handling (built-in)
+struct                 # Binary data handling (built-in)
+logging                # Logging utilities (built-in)
+
+# Optional dependencies for development and testing
+pytest>=7.0.0          # Testing framework
+pytest-cov>=4.0.0      # Test coverage
+mock>=4.0.0            # Mocking for tests
+
+# Optional dependencies for enhanced functionality
+requests>=2.28.0       # HTTP requests (if needed for future features)
+numpy>=1.21.0          # Numerical computations (for advanced calculations)
+
+# Development tools (optional)
+black>=22.0.0          # Code formatting
+flake8>=5.0.0          # Code linting
+mypy>=0.991            # Type checking
