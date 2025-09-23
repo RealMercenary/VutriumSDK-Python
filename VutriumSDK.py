@@ -1,6 +1,6 @@
 """
 VutriumSDK - COMPLETE REVERSE ENGINEERED SOURCE CODE
-Based on exhaustive binary analysis + example client analysis
+Based on binary analysis + example client analysis
 
 DISCOVERY: Complete RLGym/RLBot integration SDK for Rocket League with all missing items
 VERSION: 1.0.0
