@@ -13,7 +13,7 @@ VutriumSDK is a reverse-engineered, pure Python implementation of the original V
 ### Key Features
 - 🔓 **Open Source**: Complete Python source code (no more black-box binaries)
 - ⚡ **Full Compatibility**: 100% compatible with existing VutriumSDK applications
-- 🎮 **Game Enhancement**: Rocket League performance optimization and bot integration
+- 🎮 **Game Enhancement**: Rocket League bot integration
 - 🛠 **Extensible**: Easy to modify and extend for custom use cases
 - 📊 **Comprehensive**: All original functionality preserved and enhanced
 
@@ -57,9 +57,9 @@ try:
     sdk.connect()
     print("Connected to Vutrium successfully!")
     
-    # Enable game boost
+    # Enable Car boost
     sdk.game_boost.enable()
-    print("Game boost enabled")
+    print("Car boost enabled")
     
     # Monitor game state
     game_data = sdk.get_game_data()
@@ -102,7 +102,7 @@ Main SDK class providing access to all Vutrium features.
 Performance optimization and game enhancement features.
 
 **Methods:**
-- `enable()` - Enable game performance boost
+- `enable()` - Enable boost
 - `disable()` - Disable boost features
 - `set_boost_level(level)` - Set boost intensity (1-10)
 - `is_enabled()` - Check if boost is active
