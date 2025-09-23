@@ -1,21 +1,11 @@
 """
-VutriumSDK - ABSOLUTE FINAL COMPLETE REVERSE ENGINEERED SOURCE CODE
+VutriumSDK - COMPLETE REVERSE ENGINEERED SOURCE CODE
 Based on exhaustive binary analysis + example client analysis
 
 DISCOVERY: Complete RLGym/RLBot integration SDK for Rocket League with all missing items
 VERSION: 1.0.0
 COMPILED WITH: Cython 3.0.12
 RLBOT INTEGRATION: Full rlbot.utils.structures.game_data_struct support
-
-ALL DISCOVERED ITEMS INCLUDED:
-✓ All 16 method signatures from binary analysis
-✓ All 13 game data fields  
-✓ All 10 property methods
-✓ All 166 potential attributes verified and included
-✓ All missing event types from example client: OnGameEventStart, OnGameEventDestroyed, PlayerTickHook
-✓ All missing data fields: localPlayerIndices, localPlayerNames, gameTickPacket, fieldInfoPacket
-✓ Complete controller input structure: throttle, steer, pitch, yaw, roll, jump, boost, handbrake, use_item
-✓ Input/output protocol: num_inputs, inputs structure
 """
 
 import json
