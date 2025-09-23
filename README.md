@@ -237,7 +237,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ⚠️ Disclaimer
 
-This project is for educational and development purposes. Use responsibly and in accordance with Rocket League's Terms of Service. The authors are not responsible for any misuse of this software.
+This project is a research and educational tool. While it was developed to be functional, we do not guarantee 100% functionality or its continued operation. The primary purpose of this repository is to provide a reference for reverse engineering and SDK development. You are encouraged to use VutriumSDK.py to gain knowledge on how to create your own SDK or to understand the underlying principles. Use this software responsibly and in accordance with Rocket League's Terms of Service. The authors are not responsible for any misuse.
+
+
 
 ---
 
