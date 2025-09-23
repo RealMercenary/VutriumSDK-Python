@@ -171,16 +171,6 @@ temp/
 tmp/
 *.tmp
 
-# Project-specific ignores
-browser/
-shell_output_save/
-user_input_files/
-extracted_files/
-memory/
-validation_results/
-*.rar
-*.zip
-
 # OS generated files
 .DS_Store
 .DS_Store?
