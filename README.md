@@ -221,9 +221,7 @@ PermissionError: Access denied
 
 ### Getting Help
 
-- 📖 Check the [API Reference](docs/API_Reference.md)
 - 🐛 Report bugs in [Issues](https://github.com/yourusername/VutriumSDK-Python/issues)
-- 💬 Join the discussion in [Discussions](https://github.com/yourusername/VutriumSDK-Python/discussions)
 
 ## 📜 License
 
